@@ -12,4 +12,6 @@
 
 - [Show Animation GIF with Glide](ShowAniGIF/) - [Youtube Link](https://www.youtube.com/watch?v=-S3m2H5X1qY&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=3) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 팁.
 
-- [Play music using MediaPlayer](MusicPlay/) : MediaPlayer 클래스를 이용해서 앱에서 음악을 재생하는 팁. 
+- [Play music using MediaPlayer](MusicPlay/) : MediaPlayer 클래스를 이용해서 앱에서 음악을 재생하는 팁.
+
+- [No Title Bar](NoTitleBar/) : 화면의 타이틀바와 상태바를 보이지 않게 하는 팁.

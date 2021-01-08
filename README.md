@@ -1,4 +1,4 @@
-# Kotlin tips 
+# Android에서 Kotlin으로:: 시리즈
 
 코틀린 팁 강의에 쓰인 코드와 유튜브 강의 링크집.
 

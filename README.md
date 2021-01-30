@@ -18,4 +18,6 @@
 
 - [Swipe Screen with ViewPager](ViewPagerSwipe/) - [Youtube](https://www.youtube.com/watch?v=XoZXRnfudzc&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=7) : ViewPager를 이용해서 좌우로 스와이프 할 수 있는 화면을 만드는 팁.
 
-- [Convert Project to ViewPager2](ConvertViewPager2) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=8) : ViewPager1이 적용되어 있는 프로젝트를 ViewPager2로 변환하기
+- [Convert Project to ViewPager2](ConvertViewPager2) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=8) : ViewPager1이 적용되어 있는 프로젝트를 ViewPager2로 변환하는 팁.
+
+- [Replace findViewById with View Binding](ApplyViewBinding) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=9) : findViewById가 적용되어 있는 프로젝트를 View Binding으로 대체하는 팁.

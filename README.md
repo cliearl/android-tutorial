@@ -32,6 +32,7 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 
 - #11 [Apply View Binding to RecyclerView](ViewBindingRecyclerView/) - [Youtube](https://www.youtube.com/watch?v=z43SZfUa3-A&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=11) : findViewById를 이용해 만들어진 RecyclerView에 View Binding을 적용하는 법에 대해 설명.
 
+- #12 [Swipe, drag and touch the RecyclerView](RecyclerViewTouches/) - [Youtube]() : RecyclerView에 Swipe, Drag, Touch 동작을 부여하는 방법에 대해 설명.
 
 ## Android Jetpack
 - #09 [Replace findViewById with View Binding](ApplyViewBinding/) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=9) : findViewById가 적용되어 있는 프로젝트를 View Binding으로 대체하는 팁.

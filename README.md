@@ -22,7 +22,6 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 - #06 [Hide title bar and status bar](NoTitleBar/) - [Youtube](https://www.youtube.com/watch?v=Vm8RWNjYyD8&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=6) : 화면의 타이틀바와 상태바를 보이지 않게 하는 팁. 
 
 ### ViewPager
-
 - #07 [Implement swipable screen using ViewPager](ViewPagerSwipe/) - [Youtube](https://www.youtube.com/watch?v=XoZXRnfudzc&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=7) : ViewPager를 이용해서 좌우로 스와이프 할 수 있는 화면을 만드는 팁.
 
 - #08 [Convert ViewPager1 module into ViewPager2](ConvertViewPager2/) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=8) : ViewPager1이 적용되어 있는 프로젝트를 ViewPager2로 변환하는 팁.
@@ -35,4 +34,9 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 - #12 [Swipe, drag and touch the RecyclerView](RecyclerViewTouches/) - [Youtube]() : RecyclerView에 Swipe, Drag, Touch 동작을 부여하는 방법에 대해 설명.
 
 ## Android Jetpack
+### View Binding
 - #09 [Replace findViewById with View Binding](ApplyViewBinding/) - [Youtube](https://www.youtube.com/watch?v=3YE9bGaqVuk&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=9) : findViewById가 적용되어 있는 프로젝트를 View Binding으로 대체하는 팁.
+
+## Storage
+### SharedPreferences
+- #13 [Save and load app preference using SharedPreferences]() -[Youtube](https://www.youtube.com/watch?v=4rYMfpbpwPA&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=13) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대해 설명.

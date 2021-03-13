@@ -39,4 +39,8 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 
 ## Storage
 ### SharedPreferences
-- #13 [Save and load app preference using SharedPreferences]() -[Youtube](https://www.youtube.com/watch?v=4rYMfpbpwPA&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=13) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대해 설명.
+- #13 [Save and load app preference using SharedPreferences](SharedPreferencesBasic/) -[Youtube](https://www.youtube.com/watch?v=4rYMfpbpwPA&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=13) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대해 설명.
+
+## Google Libraries
+### Google Admob
+ - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube]() : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대해 설명.

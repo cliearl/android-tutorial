@@ -43,4 +43,4 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 
 ## Google Libraries
 ### Google Admob
- - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube]() : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대해 설명.
+ - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대해 설명.

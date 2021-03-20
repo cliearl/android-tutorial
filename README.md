@@ -1,6 +1,6 @@
-# Android에서 Kotlin으로:: 시리즈
+# Android Studio에서 Kotlin으로:: 시리즈
 
-Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유튜브 링크모음. 
+Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유튜브 링크모음. 
 
 카테고리 구분은 [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)을 참조하여 내 마음대로 정리하였음.
 

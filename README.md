@@ -12,6 +12,8 @@ Android에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유�
 ## Kotlin Language
 - #02 [Handle date and time](DateAndTime/) - [Youtube](https://www.youtube.com/watch?v=ZIoDaYWjzFE&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=2) : 앱에서 날짜와 시간을 다룰 수 있게 하는 팁.
 
+- #15 [Understand and use data class in RecyclerView](DataClassRecyclerView/) - [Youtube](https://youtu.be/opPmxtI4rLQ) : Data class를 이해하고 RecyclerView에서 사용하는 법에 대해 설명.
+
 ## Multimedia Components
 - #03 [Show animated GIF by using Glide](ShowAniGIF/) - [Youtube](https://www.youtube.com/watch?v=-S3m2H5X1qY&list=PL_XkuR-7VWcuee4kxHgChRvQCmHxcJnfS&index=3) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 팁.
 

@@ -14,6 +14,9 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #15 [Understand and use data class in RecyclerView](DataClassRecyclerView/) - [Youtube](https://youtu.be/opPmxtI4rLQ) : Data class를 이해하고 RecyclerView에서 사용하는 법에 대한 강의.
 
+- #16 [Inspect coding convention by Ktlint](Usektlint/) - [Youtube](https://youtu.be/jUQk5zirTyM) : 코틀린으로 작성한 코드의 코딩 컨벤션을 Ktlint로 검토하는 법에 대해 설명합니다.
+
+
 ## Multimedia Components
 - #03 [Show animated GIF by using Glide](ShowAniGIF/) - [Youtube](https://youtu.be/-S3m2H5X1qY) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 강의.
 

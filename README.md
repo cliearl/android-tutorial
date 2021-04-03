@@ -46,6 +46,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ### SharedPreferences
 - #13 [Save and load app preference using SharedPreferences](SharedPreferencesBasic/) -[Youtube](https://youtu.be/4rYMfpbpwPA) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대한 강의
 
+- #14 [Manage SharedPreferences as json format](GsonSharedPreferences/) - [Youtube](https://youtu.be/wkOa_-NGhd4) : Gson 플러그인을 이용해 SharedPreferences를 json 형식으로 저장하고 불러오는 법에 대한 강의.
+
 ## Google Libraries
 ### Google Admob
  - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.

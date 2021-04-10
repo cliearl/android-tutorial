@@ -14,7 +14,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #15 [Understand and use data class in RecyclerView](DataClassRecyclerView/) - [Youtube](https://youtu.be/opPmxtI4rLQ) : Data class를 이해하고 RecyclerView에서 사용하는 법에 대한 강의.
 
-- #16 [Inspect coding convention by Ktlint](Usektlint/) - [Youtube](https://youtu.be/jUQk5zirTyM) : 코틀린으로 작성한 코드의 코딩 컨벤션을 Ktlint로 검토하는 법에 대해 설명합니다.
+- #16 [Inspect coding convention by Ktlint](Usektlint/) - [Youtube](https://youtu.be/jUQk5zirTyM) : 코틀린으로 작성한 코드의 코딩 컨벤션을 Ktlint로 검토하는 법에 대한 강의.
 
 
 ## Multimedia Components
@@ -46,8 +46,13 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ### SharedPreferences
 - #13 [Save and load app preference using SharedPreferences](SharedPreferencesBasic/) -[Youtube](https://youtu.be/4rYMfpbpwPA) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대한 강의
 
-- #14 [Manage SharedPreferences as json format](GsonSharedPreferences/) - [Youtube](https://youtu.be/wkOa_-NGhd4) : Gson 플러그인을 이용해 SharedPreferences를 json 형식으로 저장하고 불러오는 법에 대한 강의.
+- #17 [Manage SharedPreferences as json format](GsonSharedPreferences/) - [Youtube](https://youtu.be/wkOa_-NGhd4) : Gson 플러그인을 이용해 SharedPreferences를 json 형식으로 저장하고 불러오는 법에 대한 강의.
 
 ## Google Libraries
 ### Google Admob
- - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.
+- #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.
+
+## Thread Handling
+### Thread and Handler
+- #18 [Understand Thread and Handler with ProgressDialog](ProgressDialogThread/) - [Youtube](https://youtu.be/fPiL4IsmXgc) : ProgressDialog를 구현해 보면서 Thread와 Handler의 구조에 대해 설명하는 강의.
+

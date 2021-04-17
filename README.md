@@ -51,6 +51,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ## Google Libraries
 ### Google Admob
 - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.
+- #19 [Show interstitial ads using Google Admob](GAdmobInterstitial/) - [Youtube](https://youtu.be/1sBRlX02rak) : Google Admob을 이용해 앱에 전면광고를 표시하는 방법에 대한 강의.
 
 ## Thread Handling
 ### Thread and Handler

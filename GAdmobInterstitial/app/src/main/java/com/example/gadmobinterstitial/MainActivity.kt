@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         loadInterstitialAd()
 
         binding.button.setOnClickListener {
-            showInterstitialad()
+            showInterstitialAd()
         }
     }
 
@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
         )
     }
 
-    private fun showInterstitialad() {
+    private fun showInterstitialAd() {
         if (mInterstitialAd != null) {
 //            if (mInterstitialAd!!.isLoaded) {
 //                mInterstitialAd?.show()

@@ -1,8 +1,9 @@
 package com.example.myapplication
 
 import android.graphics.*
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.TextPaint
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -27,9 +28,9 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        val itemTouchCallback = object : ItemTouchHelper.SimpleCallback (
+        val itemTouchCallback = object : ItemTouchHelper.SimpleCallback(
             ItemTouchHelper.UP or ItemTouchHelper.DOWN, ItemTouchHelper.LEFT
-                ){
+        ) {
             override fun onMove(
                 recyclerView: RecyclerView,
                 viewHolder: RecyclerView.ViewHolder,
@@ -62,14 +63,35 @@ class MainActivity : AppCompatActivity() {
                     val paint = Paint()
                     if (dX < 0) {
                         paint.color = Color.parseColor("#ff0000")
-                        val background = RectF(itemView.right.toFloat() + dX, itemView.top.toFloat(), itemView.right.toFloat(), itemView.bottom.toFloat())
+                        val background = RectF(
+                            itemView.right.toFloat() + dX,
+                            itemView.top.toFloat(),
+                            itemView.right.toFloat(),
+                            itemView.bottom.toFloat()
+                        )
                         c.drawRect(background, paint)
 
                         icon = BitmapFactory.decodeResource(resources, R.drawable.ic_menu_delete)
-                        val iconDst = RectF(itemView.right.toFloat() - 3 * width, itemView.top.toFloat() + width, itemView.right.toFloat() - width, itemView.bottom.toFloat() - width)
+                        val iconDst = RectF(
+                            itemView.right.toFloat() - 3 * width,
+                            itemView.top.toFloat() + width,
+                            itemView.right.toFloat() - width,
+                            itemView.bottom.toFloat() - width
+                        )
                         c.drawBitmap(icon, null, iconDst, null)
 
+                        val text = "Delete"
+                        val textPaint = TextPaint()
+                        textPaint.textSize = 50f
+                        textPaint.color = Color.WHITE
+                        val bounds = Rect()
+                        textPaint.getTextBounds(text, 0, text.length, bounds)
+                        val textHeight = bounds.height()
+                        val textWidth = textPaint.measureText(text)
+                        val textX = itemView.right - 3 * width - itemView.paddingRight - textWidth
+                        val textY = itemView.top + height / 2f + textHeight / 2f
 
+                        c.drawText(text, textX, textY, textPaint)
                     }
                 }
                 super.onChildDraw(

@@ -17,15 +17,19 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 - #16 [Inspect coding convention by Ktlint](Usektlint/) - [Youtube](https://youtu.be/jUQk5zirTyM) : 코틀린으로 작성한 코드의 코딩 컨벤션을 Ktlint로 검토하는 법에 대한 강의.
 
 
-## Multimedia Components
+## UI Components
+### Multimedia Components
 - #03 [Show animated GIF by using Glide](ShowAniGIF/) - [Youtube](https://youtu.be/-S3m2H5X1qY) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 강의.
 
 - #05 [Play musics by using MediaPlayer{}](MusicPlay/) : - [Youtube](https://youtu.be/od2b32_uuAc) : MediaPlayer 클래스를 이용해서 앱에서 음악을 재생하는 강의.
 
-## UI Components
 ### App Bar/Toolbar
-- #06 [Hide title bar and status bar](NoTitleBar/) - [Youtube](https://youtu.be/Vm8RWNjYyD8) : 화면의 타이틀바와 상태바를 보이지 않게 하는 강의. 
+- #06 [Hide title bar and status bar](NoTitleBar/) - [Youtube](https://youtu.be/Vm8RWNjYyD8) : 화면의 타이틀바와 상태바를 보이지 않게 하는 강의.
 
+### Drawables
+- #21 [Set app icon](AppIcon/) - [Youtube](https://youtu.be/3oCtbayLH3E) : 앱에 아이콘을 설정하는 법에 대해 설명하는 강의.
+
+## Data Views
 ### ViewPager
 - #07 [Implement swipable screen using ViewPager](ViewPagerSwipe/) - [Youtube](https://youtu.be/XoZXRnfudzc) : ViewPager를 이용해서 좌우로 스와이프 할 수 있는 화면을 만드는 강의.
 

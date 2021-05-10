@@ -28,6 +28,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 ### Drawables
 - #21 [Set app icon](AppIcon/) - [Youtube](https://youtu.be/3oCtbayLH3E) : 앱에 아이콘을 설정하는 법에 대해 설명하는 강의.
+- #22 [Set splash screen](SplashScreen/) - [Youtube](https://youtu.be/e7U3Coe9G3Q) : 앱에 스플래쉬 스크린을 설정하는 법에 대해 설명하는 강의.
 
 ## Data Views
 ### ViewPager

@@ -63,3 +63,4 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ### Thread and Handler
 - #18 [Understand Thread and Handler with ProgressDialog](ProgressDialogThread/) - [Youtube](https://youtu.be/fPiL4IsmXgc) : ProgressDialog를 구현해 보면서 Thread와 Handler의 구조에 대해 설명하는 강의.
 
+- #23 [Understand AsyncTask by implementing ProgressBar](ProgressBarAsyncTask/) - [Youtube](https://youtu.be/mqVcJvtW9TQ) : ProgressBar를 구현하면서 AsynckTask의 구조와 사용방법에 대해 설명하는 강의.

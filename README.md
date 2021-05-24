@@ -35,6 +35,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 - #07 [Implement swipable screen using ViewPager](ViewPagerSwipe/) - [Youtube](https://youtu.be/XoZXRnfudzc) : ViewPager를 이용해서 좌우로 스와이프 할 수 있는 화면을 만드는 강의.
 
 - #08 [Convert ViewPager1 module into ViewPager2](ConvertViewPager2/) - [Youtube](https://youtu.be/3YE9bGaqVuk) : ViewPager1이 적용되어 있는 프로젝트를 ViewPager2로 변환하는 강의.
+- #24 [Implement layout using ViewPager2 and TabLayout](Viewpager2Tablayout/) - [Youtube](https://youtu.be/3o98y7h9dfE) : ViewPager2와 TabLayout을 이용해서 스와이프로 화면전환을 할 수 있는 레이아웃을 구현하는 강의.
 
 ### RecyclerView
 - #10 [Use RecyclerView in your app](ImplementRecyclerView/) - [Youtube](https://youtu.be/z43SZfUa3-A) : 프로젝트에 기초적인 RecyclerView를 구축하는 방법에 대한 강의.

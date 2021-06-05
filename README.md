@@ -53,6 +53,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 - #13 [Save and load app preference using SharedPreferences](SharedPreferencesBasic/) -[Youtube](https://youtu.be/4rYMfpbpwPA) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대한 강의
 
 - #17 [Manage SharedPreferences as json format](GsonSharedPreferences/) - [Youtube](https://youtu.be/wkOa_-NGhd4) : Gson 플러그인을 이용해 SharedPreferences를 json 형식으로 저장하고 불러오는 법에 대한 강의.
+- 
+- #25 [Show json file in assets folder on RecyclerView](RecyclerViewAssets/) - [Youtube](https://youtu.be/QmxJS82mnjM) : Assets 폴더와 Raw 폴더의 차이점을 설명하고, Assets 폴더의 json 파일을 읽어와서 RecyclerView에 표시하는 방법에 대해 설명합니다.
 
 ## Google Libraries
 ### Google Admob

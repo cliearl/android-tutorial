@@ -16,6 +16,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #16 [Inspect coding convention by Ktlint](Usektlint/) - [Youtube](https://youtu.be/jUQk5zirTyM) : 코틀린으로 작성한 코드의 코딩 컨벤션을 Ktlint로 검토하는 법에 대한 강의.
 
+- #27 [Create lotto number generator app](LottoGenerator/) - [Youtube](https://youtu.be/1wqRy9Hs66Q) : 간단한 로또번호를 생성하는 앱을 만들면서 랜덤과 리스트를 사용하는 방법에 대해 설명합니다.
 
 ## UI Components
 ### Multimedia Components
@@ -70,4 +71,4 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 ## Device
 ### Network
-- #26 [Check internet connectivity of device](CheckConnection/) - [Youtube](https://youtu.be/9nNrkPQ8tH8) : 기기가 인터넷에 연결되어 있는지, 연결되어 있다면 어떤 형태로 연결되어 있는지 체크하는 법에 대해 설명합니다.
+- #26 [Check internet connectivity of device](CheckConnection/) - [Youtube](https://youtu.be/9nNrkPQ8tH8) : 단말이 인터넷에 연결되어 있는지, 연결되어 있다면 어떤 형태로 연결되어 있는지 체크하는 법에 대해 설명합니다.

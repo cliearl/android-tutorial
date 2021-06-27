@@ -69,6 +69,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #23 [Understand AsyncTask by implementing ProgressBar](ProgressBarAsyncTask/) - [Youtube](https://youtu.be/mqVcJvtW9TQ) : ProgressBar를 구현하면서 AsynckTask의 구조와 사용방법에 대해 설명하는 강의.
 
+- #28 [Understanding Coroutine] - [Youtube](https://youtu.be/xSgZS9e3qCU) : 코틀린의 코루틴 이론에 대해 설명하는 강의.
+
 ## Device
 ### Network
 - #26 [Check internet connectivity of device](CheckConnection/) - [Youtube](https://youtu.be/9nNrkPQ8tH8) : 단말이 인터넷에 연결되어 있는지, 연결되어 있다면 어떤 형태로 연결되어 있는지 체크하는 법에 대해 설명합니다.

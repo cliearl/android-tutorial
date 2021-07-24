@@ -7,7 +7,9 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ## Build Configuration
 - #01 [Automatically increase build number](AutoBuildNum/) - [Youtube](https://youtu.be/Tz0I-g-Gd5M) : 빌드넘버를 자동으로 매겨주는 방법에 대한 강의.
 
-- #04 [Decrease app build time](QuickBuild/) - [Youtube](https://youtu.be/EYZho7q47GQ) : 앱의 빌드속도를 빠르게 하는 방법에 대한 강의. 
+- #04 [Decrease app build time](QuickBuild/) - [Youtube](https://youtu.be/EYZho7q47GQ) : 앱의 빌드속도를 빠르게 하는 방법에 대한 강의.
+
+- #30 [How much minSdkVersion is appropriate in Jul. 2021] - [Youtube](https://youtu.be/bdKjOVBuKlU) - minSdkVersion 몇으로 해야할지 정해드립니다.
 
 ## Kotlin Language
 - #02 [Handle date and time](DateAndTime/) - [Youtube](https://youtu.be/ZIoDaYWjzFE) : 앱에서 날짜와 시간을 다룰 수 있게 하는 강의.

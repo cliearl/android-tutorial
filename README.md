@@ -38,6 +38,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 - #07 [Implement swipable screen using ViewPager](ViewPagerSwipe/) - [Youtube](https://youtu.be/XoZXRnfudzc) : ViewPager를 이용해서 좌우로 스와이프 할 수 있는 화면을 만드는 강의.
 
 - #08 [Convert ViewPager1 module into ViewPager2](ConvertViewPager2/) - [Youtube](https://youtu.be/3YE9bGaqVuk) : ViewPager1이 적용되어 있는 프로젝트를 ViewPager2로 변환하는 강의.
+
 - #24 [Implement layout using ViewPager2 and TabLayout](Viewpager2Tablayout/) - [Youtube](https://youtu.be/3o98y7h9dfE) : ViewPager2와 TabLayout을 이용해서 스와이프로 화면전환을 할 수 있는 레이아웃을 구현하는 강의.
 
 ### RecyclerView
@@ -65,7 +66,9 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ## Google Libraries
 ### Google Admob
 - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.
+
 - #19 [Show interstitial ads using Google Admob](GAdmobInterstitial/) - [Youtube](https://youtu.be/1sBRlX02rak) : Google Admob을 이용해 앱에 전면광고를 표시하는 방법에 대한 강의.
+
 - #20 [Show rewarded ads using Google Admob](GAdmobRewarded/) - [Youtube](https://youtu.be/OSN_2R3brcs) : Google Admob을 이용해서 앱에 보상형광고를 표시하는 방법에 대해 설명하는 강의.
 
 ## Thread Handling

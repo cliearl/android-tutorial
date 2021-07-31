@@ -47,6 +47,9 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #12 [Swipe, drag and touch the RecyclerView](RecyclerViewTouches/) - [Youtube](https://youtu.be/IaIuKbEyGnY) : RecyclerView에 Swipe, Drag, Touch 동작을 부여하는 방법에 대한 강의.
 
+- #31 [Understand DiffUtil and ListAdapter and apply to RecyclerView](RecyclerViewListAdapter/) - [Youtube](https://youtu.be/zNGVicOZ2ew) : DiffUtil을 설명하고 RecyclerView에 ListAdapter를 적용해 봅니다.
+
+
 ## Android Jetpack
 ### View Binding
 - #09 [Replace findViewById with View Binding](ApplyViewBinding/) - [Youtube](https://youtu.be/1xJmh2QhYTU) : findViewById가 적용되어 있는 프로젝트를 View Binding으로 대체하는 강의.

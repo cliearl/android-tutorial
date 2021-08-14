@@ -81,6 +81,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #29 [Check if my lottety have won using Coroutine](LottoChecker/) - [Youtube](https://youtu.be/DjnzSvM7DG4) : 코루틴으로 네트워크에서 로또 당첨번호를 가져와서 나의 로또번호와 비교하는 강의.
 
-## Device
-### Network
+## Network Handling
+
 - #26 [Check internet connectivity of device](CheckConnection/) - [Youtube](https://youtu.be/9nNrkPQ8tH8) : 단말이 인터넷에 연결되어 있는지, 연결되어 있다면 어떤 형태로 연결되어 있는지 체크하는 법에 대해 설명합니다.
+
+- #32 [Parsing lottery number using jsoup](JsoupLottoChecker/) - [Youtube](https://youtu.be/g0Z26AJhrTM) : jsoup으로 동행로또 홈페이지의 로또번호를 파싱하는 법에 대해 설명합니다.

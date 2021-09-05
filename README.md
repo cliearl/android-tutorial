@@ -20,6 +20,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #27 [Create lotto number generator app](LottoGenerator/) - [Youtube](https://youtu.be/1wqRy9Hs66Q) : 간단한 로또번호를 생성하는 앱을 만들면서 랜덤과 리스트를 사용하는 방법에 대해 설명합니다.
 
+- #34 Understanding Singleton Pattern - [Youtube](https://youtu.be/jzeQQeosBHA) : Singleton Pattern에 대해 설명합니다.
+
 ## UI Components
 ### Multimedia Components
 - #03 [Show animated GIF by using Glide](ShowAniGIF/) - [Youtube](https://youtu.be/-S3m2H5X1qY) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 강의.

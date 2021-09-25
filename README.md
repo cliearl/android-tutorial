@@ -65,6 +65,9 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #25 [Show json file in assets folder on RecyclerView](RecyclerViewAssets/) - [Youtube](https://youtu.be/QmxJS82mnjM) : Assets 폴더와 Raw 폴더의 차이점을 설명하고, Assets 폴더의 json 파일을 읽어와서 RecyclerView에 표시하는 방법에 대해 설명합니다.
 
+### SQLite
+- #35 [Understand SQLite and implement CRUD with SQLiteOpenHelper](ImplementCrudSqliteopenhelper/) - [Youtube]() : SQLite에 대해 설명하고 SQLiteOpenHelper를 사용해서 CRUD를 구현하는 법에 대해 알아봅니다.
+
 ## Google Libraries
 ### Google Admob
 - #14 [Show banner ads using Google Admob](GAdmobBanner/) - [Youtube](https://youtu.be/DsN3OimwIIA) : Google Admob을 이용해 앱에 배너광고를 표시하는 방법에 대한 강의.

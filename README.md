@@ -92,6 +92,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #32 [Parsing lottery number using jsoup](JsoupLottoChecker/) - [Youtube](https://youtu.be/g0Z26AJhrTM) : jsoup으로 동행로또 홈페이지의 로또번호를 파싱하는 법에 대해 설명합니다.
 
+- #38 [Show downloaded Json data by retrofit on RecyclerView](Retrofit2Basic/) - [Youtube](https://youtu.be/Dnmifx4BSQc) : Retrofit을 이용해 공공 API로부터 Json 데이터를 다운로드 받고 RecyclerView에 표시하는 방법에 대해 알아봅니다.
+
 ## Android Studio
 
 - #36 [Recommended 18 Android Studio Plugins 2021] - [Youtube](https://youtu.be/yD0RCWRd6WU) : 안드로이드 스튜디오에서 유용하게 사용할 수 있는 플러그인들을 소개합니다.

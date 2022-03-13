@@ -55,10 +55,12 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 ## Android Jetpack
 ### View Binding
+
 - #09 [Replace findViewById with View Binding](ApplyViewBinding/) - [Youtube](https://youtu.be/1xJmh2QhYTU) : findViewById가 적용되어 있는 프로젝트를 View Binding으로 대체하는 강의.
 
 ## Storage
 ### SharedPreferences
+
 - #13 [Save and load app preference using SharedPreferences](SharedPreferencesBasic/) -[Youtube](https://youtu.be/4rYMfpbpwPA) : SharedPreferences로 앱의 설정값을 저장하고 불러오는 방법에 대한 강의
 
 - #17 [Manage SharedPreferences as json format](GsonSharedPreferences/) - [Youtube](https://youtu.be/wkOa_-NGhd4) : Gson 플러그인을 이용해 SharedPreferences를 json 형식으로 저장하고 불러오는 법에 대한 강의.
@@ -78,7 +80,12 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #20 [Show rewarded ads using Google Admob](GAdmobRewarded/) - [Youtube](https://youtu.be/OSN_2R3brcs) : Google Admob을 이용해서 앱에 보상형광고를 표시하는 방법에 대해 설명하는 강의.
 
+### OSS Licenses Plugin
+
+- #46 [Show open source licenses of app](OssLicenses/) - [Youtube](https://youtu.be/k4pCvftX8ls) : 오픈소스의 라이센스를 표시하는 법에 대해 설명하는 강의.
+
 ## Thread Handling
+
 ### Thread and Handler
 - #18 [Understand Thread and Handler with ProgressDialog](ProgressDialogThread/) - [Youtube](https://youtu.be/fPiL4IsmXgc) : ProgressDialog를 구현해 보면서 Thread와 Handler의 구조에 대해 설명하는 강의.
 

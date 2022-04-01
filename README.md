@@ -2,8 +2,6 @@
 
 Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드와 유튜브 링크모음. 
 
-카테고리 구분은 [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)을 참조하여 내 마음대로 정리하였음.
-
 ## Build Configuration
 - #01 [Automatically increase build number](AutoBuildNum/) - [Youtube](https://youtu.be/Tz0I-g-Gd5M) : 빌드넘버를 자동으로 매겨주는 방법에 대한 강의.
 
@@ -110,3 +108,7 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ## Android Studio
 
 - #36 [Recommended 18 Android Studio Plugins 2021] - [Youtube](https://youtu.be/yD0RCWRd6WU) : 안드로이드 스튜디오에서 유용하게 사용할 수 있는 플러그인들을 소개합니다.
+
+## Device
+
+- #47 [Show sensor list](ShowSensorList/) - [Youtube](https://youtu.be/nhlGFkAhRFA) : 안드로이드 기기에 설치된 센서 종류를 확인하는 법에 대해 알아봅니다.

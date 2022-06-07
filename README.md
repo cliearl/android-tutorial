@@ -119,3 +119,4 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 ## Device
 
 - #47 [Show sensor list](ShowSensorList/) - [Youtube](https://youtu.be/nhlGFkAhRFA) : 안드로이드 기기에 설치된 센서 종류를 확인하는 법에 대해 알아봅니다.
+- #48 [중력센서를 사용해 기기의 기울기 각도 확인하기](TiltSensor/) - [Youtube](https://youtu.be/cfufJhJOd2Y) : 기기의 수평도를 확인하는 법에 대해 알아봅니다.

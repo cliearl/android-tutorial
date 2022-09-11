@@ -20,6 +20,8 @@ Android Studio에서 Kotlin으로:: 시리즈 유튜브 강의에 쓰인 코드�
 
 - #34 Understanding Singleton Pattern - [Youtube](https://youtu.be/jzeQQeosBHA) : Singleton Pattern에 대해 설명합니다.
 
+- #49 [Documentize project by Dokka](DokkaExample/) - [Youtube](https://youtu.be/i1ljU1WLolc) : Dokka로 프로젝트를 문서화하는 법에 대해 설명합니다.
+
 ## UI Components
 ### Multimedia Components
 - #03 [Show animated GIF by using Glide](ShowAniGIF/) - [Youtube](https://youtu.be/-S3m2H5X1qY) : 외부 라이브러리 Glide를 이용해 앱에서 움직이는 GIF를 재생하는 강의.
